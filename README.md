@@ -1,95 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=00c8ff&height=200&section=header&text=COLOMBIA%20STYLEE&fontSize=80&animation=fadeIn&fontAlignY=50&desc=The%20Next%20Level&descAlignY=70&descSize=20" width="100%"/>
+<img src="https://i.postimg.cc/FzkqZrgN/image.png" width="100%" alt="Colombia Stylee Banner Ultra Boff"/>
 
-<img src="https://i.imgur.com/7YV4A9R.gif" width="100%" height="10px"/>
+<img src="https://i.imgur.com/7YV4A9R.gif" width="100%" height="15px"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=600&lines=INICIANDO+SISTEMA...+%5B%23%23%23%23---%5D;OPTIMIZANDO+RENDIMIENTO...;ESTILO+COLOMBIANO+ACTIVADO;%C2%A1BIENVENIDO+AL+FUTURO!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Metal+Mania&size=30&duration=2000&pause=200&color=F7DF1E&center=true&vCenter=true&width=700&lines=COLOMBIA+STYLEE+ACTIVADO;EL+NUEVO+REGLAMENTO;POWERED+BY+NITRO;%C2%A1%C2%A1UNETE+O+QUEDATE+ATR%C3%81S!!)
 
----
+<img src="https://i.imgur.com/dK8N2Nl.gif" width="100%" height="5px"/>
 
-### 🔥 ÚNETE A LA REVOLUCIÓN 🔥
-
-<a href="https://colombiastyleeoficialv2.base44.app">
-  <img src="https://img.shields.io/badge/PAGINA--WEB-VISITAR-00c8ff?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=30" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://chat.whatsapp.com/GJtV0uoMeGn2Z5wUgR5NCO">
-  <img src="https://img.shields.io/badge/WHATSAPP-UNETE_A_LA_FAMILIA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30" height="40"/>
-</a>
+</div>
 
 ---
 
-### 👑 THE LEADERSHIP TEAM 👑
+<div align="center">
+
+## 💀 ACCESO DIRECTO AL SISTEMA 💀
+
+<table align="center" style"border: none;">
+  <tr>
+    <td style="border: none;">
+      <a href="https://colombiastyleeoficialv2.base44.app">
+        <img src="https://img.shields.io/badge/VISITAR--WEB-ENTRAR%20AL%20SISTEMA-00c8ff?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=35" height="50"/>
+      </a>
+    </td>
+    <td style="border: none; padding: 0 20px;">
+    </td>
+    <td style="border: none;">
+      <a href="https://chat.whatsapp.com/GJtV0uoMeGn2Z5wUgR5NCO">
+        <img src="https://img.shields.io/badge/UNETE--A--WHATSAPP-COMUNIDAD%20COLOMBIA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=35" height="50"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🔥 EL CREW DETRÁS DEL PODER 🔥
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/JhonMz2006">
-        <img src="https://github.com/JhonMz2006.png?size=100" width="100px;" style="border-radius: 50%;" alt="JhonMz2006"/>
+        <img src="https://github.com/JhonMz2006.png?size=150" width="150px;" style="border-radius: 50%; border: 4px solid #F7DF1E;" alt="JhonMz2006"/>
         <br />
-        <sub><b>Developer Head</b></sub>
         <br />
-        <sub><img src="https://img.shields.io/badge/-JhonMz2006-black?style=flat&logo=github"></sub>
+        <sub><b>DEVELOPER HEAD & FOUNDER</b></sub>
+        <br />
+        <sub><img src="https://img.shields.io/badge/-JhonMz2006-black?style=flat-square&logo=github&logoColor=F7DF1E"></sub>
       </a>
     </td>
     <td align="center">
-      <img src="https://api.dicebear.com/8.x/initials/svg?seed=EA&backgroundColor=00c8ff&radius=50" width="100px;"alt="Elkin Andres"/>
+      <img src="https://api.dicebear.com/8.x/initials/svg?seed=ElkinAndres&backgroundColor=00c8ff&radius=50" width="150px;" style="border: 4px solid #00c8ff;" alt="Elkin Andres"/>
       <br />
-      <sub><b>Creative Design</b></sub>
       <br />
-      <sub><img src="https://img.shields.io/badge/-Elkin--Andres-black?style=flat"></sub>
+      <sub><b>CREATIVE DESIGN LEAD</b></sub>
+      <br />
+      <sub><img src="https://img.shields.io/badge/-Elkin--Andres-black?style=flat-square&logoColor=00c8ff"></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-</div>
+## 🚀 COLOMBIA STYLEE: LA NUEVA REGLA
 
-## 🚀 ¿Qué es Colombia Stylee?
-No es solo un launcher, es la herramienta que **potencia tu entorno** con la esencia de la cultura colombiana, optimizando cada proceso para que tu experiencia sea **fluida, rápida y única**.
+¿Pensabas que era un launcher más? Estás equivocado. Esto es la **potencia pura** diseñada para redefinir tu experiencia digital con la esencia de la cultura colombiana. Rendimiento nitro, estilo agresivo y optimización total.
 
-### ✨ Características Principales
-* **[ 🟢 ] Interfaz Agresiva:** Diseño de alto impacto inspirado en el flow colombiano.
-* **[ ⚡️ ] Rendimiento Nitro:** Core optimizado para mínima latencia.
-* **[ 🛠️ ] Soporte Activo:** Actualizaciones y corrección de errores constantes.
+### ⚡ Características Nitro MAX
+* **[ 🔥 ] Interfaz Agresiva:** Diseño de alto octanaje. Cero suavidad.
+* **[ 🟢 ] Optimización Extrema:** Core Nitro para máxima velocidad.
+* **[ 🛠️ ] Soporte Activo:** Siempre actualizando, siempre mejorando.
 
 ---
 
-## ⚖️ Términos y Condiciones (Nitro)
-
-Al utilizar o instalar **Colombia Stylee Launcher**, aceptas los siguientes lineamientos:
+## ⚖️ TÉRMINOS Y CONDICIONES (NITRO MAX)
 
 > [!CAUTION]
-> ### 🛑 1. Restricción Total de Terceros
-> Queda **estrictamente prohibida** la venta, reventa o distribución no autorizada de este software o sus archivos por parte de terceros.
+> ### 🛑 RESTRICCIÓN TOTAL DE TERCEROS Y REVENTA
+> Queda **ESTRICTAMENTE PROHIBIDO** cualquier intento de venta, reventa o distribución no autorizada de este repositorio o sus archivos por parte de terceros. Infringir esto resulta en baneo total y acciones legales.
 >
-> ### 🔍 2. Telemetría para Mejoras
-> Al instalar el launcher, usted otorga acceso a datos técnicos básicos de rendimiento de su PC. Este acceso es **exclusivo** para la detección, diagnóstico y corrección remota de errores, asegurando la estabilidad del sistema.
+> ### 🔍 TELEMETRÍA AGRESIVA PARA MEJORAS
+> Al instalar el launcher, usted otorga acceso a datos técnicos básicos de rendimiento de su PC. Este acceso es **EXCLUSIVO** para la detección, diagnóstico y corrección remota de errores en tiempo real, asegurando la estabilidad NITRO del sistema. Respetamos tu privacidad, pero *necesitamos los datos para volar*.
 >
-> ### 🔒 3. Protocolo de Privacidad
-> Respetamos tu información. Los datos recolectados se mantienen bajo estricta privacidad y cifrado. Solo serán revelados si una autoridad legal superior lo requiere o si el usuario viola gravemente estos términos.
-
----
-
-## 🛠️ Tech Stack & Status
-<p align="left">
-  <img src="https://img.shields.io/badge/Mainting-Activo-00c8ff?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/GFX-Adobe--Photoshop-FF61F6?style=flat-square&logo=adobephotoshop&logoColor=white" />
-</p>
+> ### 🔒 PROTOCOLO DE PRIVACIDAD ABSOLUTA
+> Tu información es sagrada y se mantiene privada, cifrada y segura. **NUNCA** será compartida a menos que sea requerida por una autoridad legal superior o si el usuario viola gravemente los términos de uso.
 
 ---
 
 <div align="center">
 
-### 📊 Repo Dynamics
+### 📊 ESTADO DEL SISTEMA DYNÁMICO
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonMz2006&repo=Colombia-Stylee-Launcher&theme=radical&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonMz2006&repo=Colombia-Stylee-Launcher&theme=radical&show_owner=true&count_private=true" width="400px"/>
 
-<img src="https://i.imgur.com/dK8N2Nl.gif" width="100%" height="2px"/>
+<img src="https://i.imgur.com/dK8N2Nl.gif" width="100%" height="15px"/>
 
-**© 2026 COLOMBIA STYLEE. TODOS LOS DERECHOS RESERVADOS.**
-*¡Usa el estilo o quédate atrás!*
+### 🇨🇴 USA EL ESTILO O QUÉDATE ATRÁS 🇨🇴
+**© 2026 COLOMBIA STYLEE. TODOS LOS DERECHOS RESERVADOS EN NITRO.**
 </div>
