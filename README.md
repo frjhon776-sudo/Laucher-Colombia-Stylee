@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/FzkqZrgN/image.png" width="100%" alt="Colombia Stylee Banner"/>
+<img src="https://i.postimg.cc/Cx7kL99B/image.png" width="100%" alt="Colombia Stylee Banner"/>
 
 ---
 
