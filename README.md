@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/Cx7kL99B/image.png" width="100%" alt="Colombia Stylee Banner">
+<img src="banner.png" width="100%" alt="Colombia Stylee Banner">
 
 <br/>
 
@@ -21,12 +21,6 @@
 
 > **Colombia Stylee** es un launcher diseñado para ofrecer una experiencia única, combinando optimización técnica con la estética vibrante de nuestra cultura colombiana. Enfocado en la estabilidad, el rendimiento y la comunidad para todos los usuarios.
 
-Con Colombia Stylee obtienes:
-- ⚡ **Rendimiento optimizado** para tu equipo.
-- 🎨 **Interfaz con identidad propia** — hecha por y para la comunidad.
-- 🔧 **Actualizaciones constantes** para garantizar estabilidad.
-- 🤝 **Soporte comunitario** activo 24/7.
-
 ---
 
 ## 🚀 Características Principales
@@ -37,7 +31,6 @@ Con Colombia Stylee obtienes:
 | 🛡️ **Estabilidad** | Sistema de corrección de errores en tiempo real. |
 | 🎨 **Estética única** | Diseño inspirado en la cultura colombiana. |
 | 🔄 **Auto-actualización** | Siempre tendrás la última versión disponible. |
-| 🌐 **Comunidad activa** | Soporte y novedades en WhatsApp. |
 
 ---
 
