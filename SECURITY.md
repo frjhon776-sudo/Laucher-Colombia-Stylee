@@ -39,7 +39,7 @@ Recopilamos datos estrictamente necesarios como tu IP e información del disposi
 
 ## 📜 NORMAS Y TÉRMINOS DE USO
 
-[cite_start]Al usar el Colombia Stylee Launcher, aceptas los términos legales establecidos[cite: 1]:
+Al usar el Colombia Stylee Launcher, aceptas los términos legales establecidos:
 
 * **Prohibición de Redistribución:** Queda totalmente prohibida la carga de mods en otras webs o compartirlos por redes sociales.
 * **Una Cuenta por Usuario:** Solo se permite una única cuenta personal e intransferible.
