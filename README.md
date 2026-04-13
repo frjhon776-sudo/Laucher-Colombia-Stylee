@@ -37,7 +37,7 @@
 ## 📦 Instalación
 
 ```bash
-# 1. Descarga la última versión desde la página oficial
+# 1. Descargar la última versión desde la página oficial
 # 2. Ejecuta el instalador como administrador
 # 3. Sigue los pasos del asistente de instalación
 # 4. ¡Listo! Disfruta Colombia Stylee
